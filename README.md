@@ -24,3 +24,9 @@ Run a daily report generation task:
   ```
   python main_scheduler.py --type daily
   ```
+
+## Tech Stack
+*   Python 3
+*   Pandas (Data Analysis)
+*   PyMySQL (Database Driver)
+*   smtplib (Email)
